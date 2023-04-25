@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "metalmod:block/void_steel_block"
+  }
+}

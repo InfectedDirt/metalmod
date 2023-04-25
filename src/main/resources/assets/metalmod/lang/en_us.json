@@ -1,4 +1,7 @@
 {
   "item.metalmod.void_steel_ingot": "Voidsteel Ingot",
-  "item.metalmod.raw_void_steel" : "Raw Voidsteel"
+  "item.metalmod.raw_void_steel" : "Raw Voidsteel,",
+  "itemGroup.metals" : "Metals",
+  "block.metalmod.void_steel_block" : "Block of Voidsteel",
+  "block.metalmod.void_steel_ore" : "Voidsteel Ore"
 }
